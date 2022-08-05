@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "name" : "[지구샵] 키친클로스(체크)",
+        "price" : "15,000",
+        "img" : "https://cdn.imweb.me/thumbnail/20220428/8a3716a1e9c28.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "[지구샵] 키친클로스(줄무늬)",
+        "price" : "15,000",
+        "img" : "https://cdn.imweb.me/thumbnail/20220428/8429e23af90ca.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "[지구샵] 배색그물장바구니",
+        "price" : "7,000",
+        "img" : "https://cdn.imweb.me/thumbnail/20220628/03b1a5b69b61c.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "[지구샵] 오리지널고체치약",
+        "price" : "13,400",
+        "img" : "https://cdn.imweb.me/thumbnail/20220715/bf39fcebe9f69.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "[지구샵] 온몸비누 (자몽) 100g",
+        "price" : "13,400",
+        "img" : "https://cdn.imweb.me/thumbnail/20211112/161e343ebd92f.jpg"
+    },{
+        "id" : 6,
+        "name" : "[지구샵] 대나무칫솔",
+        "price" : "3,000",
+        "img" : "https://cdn.imweb.me/thumbnail/20220127/b6cf89c6247b6.jpg"
+    }
+]

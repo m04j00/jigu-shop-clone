@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "img" : "https://cdn.imweb.me/thumbnail/20220428/7d480602a78b4.jpg",
+        "name" : "[지구샵] 키친클로스(체크)",
+        "price" : "15,000",
+        "explain" : "지구샵에서 자체 생산한 실까지 면 100% 키친클로스에요.\n테이블매트와 컵받침, 행주로 구성되어있어 활용도가 높아요!\n**개별구매는 오프라인 매장에서만 가능합니다.",
+        "explain-img" : "https://cdn.imweb.me/upload/S202001038f7af028ec26d/82b43cfa0e492.jpg"
+    },
+    {
+        "id" : 2,
+        "img" : "https://cdn.imweb.me/thumbnail/20220428/5d71df1168f7e.jpg",
+        "name" : "[지구샵] 키친클로스(줄무늬)",
+        "price" : "15,000",
+        "explain" : "지구샵에서 자체 생산한 실까지 면 100% 키친클로스에요.\n테이블매트와 컵받침, 행주로 구성되어있어 활용도가 높아요!\n**개별구매는 오프라인 매장에서만 가능합니다.",
+        "explain-img" : "https://cdn.imweb.me/upload/S202001038f7af028ec26d/7864079ac7b87.jpg"
+    },
+    {
+        "id" : 3,
+        "img" : "https://cdn.imweb.me/thumbnail/20220628/ce883e63f32cc.jpg",
+        "name" : "[지구샵] 배색그물장바구니",
+        "price" : "7,000",
+        "explain" : "지구샵과 연남점, 그로서리 매장의 포인트를 담은 그물장바구니에요.\n일상 곳곳에서 비닐이나 일회용 제품 대신 사용하며 제로웨이스트 라이프, 지구샵과 함께해요!",
+        "explain-img" : "https://cdn.imweb.me/upload/S202001038f7af028ec26d/89a507a7a9732.jpg"
+    },
+    {
+        "id" : 4,
+        "img" : "https://cdn.imweb.me/thumbnail/20220331/ccbda6000a5ff.jpg",
+        "name" : "[지구샵] 오리지널고체치약",
+        "price" : "13,400",
+        "explain" : "제로웨이스트 양치시간에 대한 지구샵의 진심을 담은 오리지널 고체치약입니다. 한 알씩 집어 사용하는 편리함까지 더한 제로웨이스트 양치시간, 지금 시작해요:)\n*틴케이스 별도 구매",
+        "explain-img" : "https://cdn.imweb.me/upload/S202001038f7af028ec26d/b528ad9674c81.jpg"
+    },
+    {
+        "id" : 5,
+        "img" : "https://cdn.imweb.me/thumbnail/20211115/c9da2765a2ac9.jpg",
+        "name" : "[지구샵] 온몸비누 (자몽) 100g",
+        "price" : "13,400",
+        "explain" : "머리부터 발끝까지 하나로! \n팜유&인공색소, 향료, 계면활성제 FREE까지!\n지구에 더 가까운 온몸비누로 제로웨이스트 욕실생활을 실천해요:) ",
+        "explain-img" : "https://cdn.imweb.me/upload/S202001038f7af028ec26d/149be93eb4e2d.jpg"
+    },
+    {
+        "id" : 6,
+        "img" : "https://cdn.imweb.me/thumbnail/20220127/b6cf89c6247b6.jpg",
+        "name" : "[지구샵] 대나무칫솔",
+        "price" : "3,000",
+        "explain" : "둥근 그립감으로 사용감이 좋은 대나무 칫솔입니다.",
+        "explain-img" : "https://cdn.imweb.me/upload/S202001038f7af028ec26d/686fc11ef6857.jpg"
+    }
+]
