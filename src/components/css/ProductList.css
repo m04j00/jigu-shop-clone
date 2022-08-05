@@ -1,0 +1,27 @@
+.list-li {
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 40px;
+    margin-right: 0;
+    margin-left: 40px;
+}
+.list-img{
+    width: 200px;
+}
+.list-name{
+    color: rgb(85, 85, 85);
+}
+.list-price{
+    color: #00913a;
+    padding-bottom: 5px;
+}
+.list-tag{
+    background-color: #00913a;
+    padding: 3px 7px;
+    color: white;
+    font-size: 11px;
+}
+.list-li >  p{
+    margin: 5px 0;
+    font-size: 15px;
+}
