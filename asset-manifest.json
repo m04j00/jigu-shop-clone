@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jigu-shop-clone/static/css/main.7dc683b9.css",
+    "main.js": "/jigu-shop-clone/static/js/main.882b4870.js",
+    "static/js/787.efbdb329.chunk.js": "/jigu-shop-clone/static/js/787.efbdb329.chunk.js",
+    "static/media/banner.jpg": "/jigu-shop-clone/static/media/banner.e10d74d84be8d7a41378.jpg",
+    "static/media/logo.png": "/jigu-shop-clone/static/media/logo.5a6b87290b90a7241ae7.png",
+    "index.html": "/jigu-shop-clone/index.html",
+    "main.7dc683b9.css.map": "/jigu-shop-clone/static/css/main.7dc683b9.css.map",
+    "main.882b4870.js.map": "/jigu-shop-clone/static/js/main.882b4870.js.map",
+    "787.efbdb329.chunk.js.map": "/jigu-shop-clone/static/js/787.efbdb329.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dc683b9.css",
+    "static/js/main.882b4870.js"
+  ]
+}
