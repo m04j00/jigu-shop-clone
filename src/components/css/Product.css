@@ -1,0 +1,91 @@
+.product-container {
+    margin: 0 400px;
+}
+
+.product-explain {
+    margin-top: 30px;
+}
+
+.product-explain-left {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.product-explain-right {
+    float: left;
+    width: 45%;
+    margin-left: 5%;
+}
+
+.product-explain-img {
+    width: 585px;
+}
+
+.product-explain-name{
+    font-size: 16px;
+    color: #656565;
+    margin: 10px 0;
+}
+.product-explain-price{
+    font-size: 15px;
+    color: #00913a !important;
+    margin: 0;
+}
+.product-explain-hr {
+    border-bottom: 1px solid rgba(202, 202, 202, 0.589);
+}
+.product-explain-explain{
+    white-space: pre-wrap;
+    line-height : 40px;
+    color: #646464;
+}
+.product-explain-basic-explain > p{
+    margin: 10px 0;
+    font-size: 13px;
+    color: #303030;
+}
+select {
+    width: 150px;
+    height: 40px;
+    background: url('https://freepikpsd.com/media/2019/10/down-arrow-icon-png-7-Transparent-Images.png');
+    padding: 5px 30px 5px 10px;
+    outline: 0 none;
+    border: 1px solid rgba(202, 202, 202, 0.589);
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+select option {
+    padding: 3px 0;
+}
+.select{
+    width: 100%;
+    height: 50px;
+}
+.product-explain-btn-box{
+    text-align: center;
+    margin-top: 20px;
+}
+.product-explain-btn{
+    border: 1px solid rgba(100,100,100,0.2);
+    width: 170px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 10px;
+    font-weight: 700;
+    color: #646464;
+    font-size: 14px;
+}
+.product-explain-btn-green{
+    background-color: #00913a;
+    color: white;
+}
+.product-explain-btn:hover{
+    border-color: #363636;
+    transition: 0.3s;
+}
+.product-explain-btn-green:hover{
+    border-color: #363636;
+    background-color: #00692a;
+}
