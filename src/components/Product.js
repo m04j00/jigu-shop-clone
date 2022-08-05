@@ -4,6 +4,7 @@ import Menu from "./Menu";
 import Navbar from "./Navbar";
 import './css/Product.css';
 import data from '../data/product.json';
+import Footer from "./Footer";
 
 function Product() {
     const {id} = useParams();
@@ -60,6 +61,7 @@ function Product() {
                 </div>
                 <img className="product-img" src={product["explain-img"]}></img>
             </div>
+            <Footer/>
         </div>
     )
 }

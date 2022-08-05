@@ -36,10 +36,6 @@ body{
 
 }
 
-::-webkit-scrollbar {
-    display: none;
-}
-
 .footer{
     padding: 30px 400px;
     background-color: #00913a;
