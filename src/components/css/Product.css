@@ -4,6 +4,7 @@
 
 .product-explain {
     margin-top: 30px;
+    height: 675px;
 }
 
 .product-explain-left {
@@ -88,4 +89,19 @@ select option {
 .product-explain-btn-green:hover{
     border-color: #363636;
     background-color: #00692a;
+}
+.product-btn-box{
+    margin-top: 50px;
+    text-align: center;
+}
+.product-btn-box > button{
+    color: #646464;
+    font-size: 15px;
+    border: 1px solid #e5e7eb;
+    height: 40px;
+    background-color: rgba(249, 249, 249, 0.499);
+}
+.product-img{
+    width: 100%;
+    margin-top: 30px;
 }
